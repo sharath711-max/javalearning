@@ -10,6 +10,7 @@ Your Java learning project has been fully set up with a comprehensive roadmap fo
 - `README_COMPREHENSIVE.md` ← **START HERE** - Full learning guide with roadmap
 - `QUICKSTART.md` - Quick reference for commands and daily routine  
 - `PROJECT_SUMMARY.txt` - Visual overview of project structure
+- `CONCEPTS_AND_EXCEPTIONS.md` - Complete reference of all 86 concepts and 27+ exceptions
 - `pom.xml` - Maven build configuration
 
 **Java Code (12 Examples + 10 modules):**

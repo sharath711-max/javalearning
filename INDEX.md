@@ -23,6 +23,7 @@ You have a **complete, production-ready Java learning project** with:
 | **Quick commands** | [QUICKSTART.md](QUICKSTART.md) | All Maven commands, daily routine, learning tips |
 | **Visual overview** | [PROJECT_SUMMARY.txt](PROJECT_SUMMARY.txt) | ASCII diagrams, structure, all examples listed |
 | **Getting started** | [SETUP_COMPLETE.md](SETUP_COMPLETE.md) | What's included, next steps, troubleshooting |
+| **Concepts & Exceptions** | [CONCEPTS_AND_EXCEPTIONS.md](CONCEPTS_AND_EXCEPTIONS.md) | All 86 concepts and 27+ exceptions covered in each module |
 | **This file** | [INDEX.md](INDEX.md) | Navigation guide to all resources |
 
 ---
@@ -53,6 +54,7 @@ javalearning/
 ├── QUICKSTART.md                     ← Quick reference commands
 ├── PROJECT_SUMMARY.txt               ← Visual overview
 ├── SETUP_COMPLETE.md                 ← Setup details
+├── CONCEPTS_AND_EXCEPTIONS.md        ← All concepts and exceptions by module
 ├── pom.xml                           ← Maven build config
 └── src/main/java/com/javalearning/
     ├── basics/                       ← Phase 1 (5 examples)
@@ -237,6 +239,16 @@ mvn exec:java -Dexec.mainClass="com.javalearning.advanced.Singleton"
 
 **Best for:** Understanding what you have and how to use it
 
+### CONCEPTS_AND_EXCEPTIONS.md
+- All 86 concepts covered in each module
+- 27+ exceptions listed by type
+- Module-by-module breakdown
+- Cross-module concept references
+- Exception handling strategies
+- Self-check mastery levels
+
+**Best for:** In-depth learning and exception reference
+
 ---
 
 ## ✅ Checklist: Getting Started
@@ -300,10 +312,12 @@ If it works, you're all set! Start learning with one of the guides above.
 | Learning Modules | 10 |
 | Learning Phases | 4 |
 | Total Examples | 12 |
-| Documentation Files | 5 |
+| Documentation Files | 6 |
+| Total Concepts Documented | 86 |
+| Total Exceptions Listed | 27+ |
 | Estimated Learning Time | 10 weeks |
 | Lines of Code (Examples) | ~500 |
-| Lines of Documentation | ~3000+ |
+| Lines of Documentation | ~4000+ |
 
 ---
 
@@ -334,6 +348,7 @@ Then you're ready for:
 | Run examples quickly | [QUICKSTART.md](QUICKSTART.md) |
 | See project overview | [PROJECT_SUMMARY.txt](PROJECT_SUMMARY.txt) |
 | Understand setup | [SETUP_COMPLETE.md](SETUP_COMPLETE.md) |
+| Learn all concepts | [CONCEPTS_AND_EXCEPTIONS.md](CONCEPTS_AND_EXCEPTIONS.md) |
 | Find something | This file (INDEX.md) |
 
 ---
